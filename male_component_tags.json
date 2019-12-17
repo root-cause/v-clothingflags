@@ -355,6 +355,7 @@
     "35": {
       "0": [
         "GUN_ACCS",
+        "HEIST_GEAR",
         "NIGHT_VISION",
         "SHRINK_HEAD",
         "HOOD_COMPAT"
@@ -363,6 +364,7 @@
     "36": {
       "0": [
         "GUN_ACCS",
+        "HEIST_GEAR",
         "REBREATHER"
       ]
     },
@@ -4185,7 +4187,8 @@
     "154": {
       "0": [
         "CASINO_ITEM",
-        "SHRINK_HEAD"
+        "SHRINK_HEAD",
+        "LIGHT_UP"
       ]
     },
     "155": {
@@ -4277,6 +4280,509 @@
         "CASINO_ITEM",
         "SHRINK_HEAD"
       ]
+    },
+    "160": {
+      "0": []
+    },
+    "161": {
+      "0": []
+    },
+    "162": {
+      "0": [
+        "SHRINK_HEAD"
+      ]
+    },
+    "163": {
+      "0": [
+        "SHRINK_HEAD"
+      ]
+    },
+    "164": {
+      "0": []
+    },
+    "165": {
+      "0": []
+    },
+    "166": {
+      "0": [
+        "GUN_ACCS",
+        "REBREATHER"
+      ],
+      "1": [
+        "GUN_ACCS",
+        "REBREATHER"
+      ],
+      "2": [
+        "GUN_ACCS",
+        "REBREATHER"
+      ],
+      "3": [
+        "GUN_ACCS",
+        "REBREATHER"
+      ]
+    },
+    "167": {
+      "0": [
+        "SHRINK_HEAD"
+      ]
+    },
+    "168": {
+      "0": []
+    },
+    "169": {
+      "0": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "1": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "2": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "3": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "4": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "5": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "6": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "7": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "8": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "9": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "10": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "11": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "12": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "13": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "14": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "15": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "16": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "17": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "18": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "19": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "20": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "21": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "22": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "23": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "24": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ],
+      "25": [
+        "SKI_MASK",
+        "FORCE_PROP",
+        "SHRINK_HEAD"
+      ]
+    },
+    "170": {
+      "0": [
+        "SHRINK_HEAD"
+      ]
+    },
+    "171": {
+      "0": [
+        "SHRINK_HEAD"
+      ]
+    },
+    "172": {
+      "0": [
+        "SHRINK_HEAD"
+      ],
+      "1": [
+        "SHRINK_HEAD"
+      ],
+      "2": [
+        "SHRINK_HEAD"
+      ]
+    },
+    "173": {
+      "0": [
+        "SHRINK_HEAD"
+      ]
+    },
+    "174": {
+      "0": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "1": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "2": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "3": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "4": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "5": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "6": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "7": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "8": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "9": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "10": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "11": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "12": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "13": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "14": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "15": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "16": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "17": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "18": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "19": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "20": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "21": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "22": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "23": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "24": [
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ]
+    },
+    "175": {
+      "0": [
+        "GAS_MASK"
+      ],
+      "1": [
+        "GAS_MASK"
+      ],
+      "2": [
+        "GAS_MASK"
+      ],
+      "3": [
+        "GAS_MASK"
+      ]
+    },
+    "176": {
+      "0": [
+        "SHRINK_HEAD"
+      ],
+      "1": [
+        "SHRINK_HEAD"
+      ],
+      "2": [
+        "SHRINK_HEAD"
+      ],
+      "3": [
+        "SHRINK_HEAD"
+      ]
+    },
+    "177": {
+      "0": [
+        "SHRINK_HEAD"
+      ]
+    },
+    "178": {
+      "0": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "1": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "2": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "3": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "4": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "5": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "6": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "7": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "8": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "9": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "10": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "11": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "12": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "13": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "14": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "15": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "16": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "17": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "18": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "19": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "20": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "21": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "22": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "23": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ],
+      "24": [
+        "HEIST_GEAR",
+        "NIGHT_VISION",
+        "SHRINK_HEAD",
+        "HOOD_COMPAT"
+      ]
+    },
+    "179": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": []
     }
   },
   "2": {
@@ -4454,6 +4960,7 @@
     },
     "23": {
       "0": [
+        "HEIST_GEAR",
         "NIGHT_VISION"
       ]
     },
@@ -12453,6 +12960,250 @@
         "APART_DRAW_12",
         "SILK_ROBE"
       ]
+    },
+    "120": {
+      "0": [
+        "IE_CLOTH",
+        "IE_DRAW_7",
+        "OUTFIT_CHECKS",
+        "MORPH_SUIT"
+      ],
+      "1": [
+        "IE_CLOTH",
+        "IE_DRAW_7",
+        "OUTFIT_CHECKS",
+        "MORPH_SUIT"
+      ]
+    },
+    "121": {
+      "0": [
+        "IE_CLOTH",
+        "IE_DRAW_7",
+        "OUTFIT_CHECKS",
+        "MORPH_SUIT"
+      ]
+    },
+    "122": {
+      "0": [
+        "GUN_DRAW_0",
+        "HAS_ALT_VERSION"
+      ]
+    },
+    "123": {
+      "0": [
+        "GUN_DRAW_1",
+        "HAS_ALT_VERSION",
+        "ALT_LEGS"
+      ]
+    },
+    "124": {
+      "0": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "1": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "2": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "3": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "4": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "5": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "6": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "7": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "8": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "9": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "10": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "11": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "12": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "13": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "14": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "15": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "16": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "17": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "18": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ],
+      "19": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_1",
+        "OUTFIT_CHECKS"
+      ]
+    },
+    "125": {
+      "0": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "1": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "2": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "3": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "4": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "5": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "6": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "7": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "8": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "9": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "10": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "11": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "12": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "13": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "14": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "15": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "16": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "17": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "18": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "19": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ]
+    },
+    "126": {
+      "0": [
+        "DRAW_8"
+      ]
     }
   },
   "5": {
@@ -13751,6 +14502,326 @@
     "80": {
       "0": [],
       "1": []
+    },
+    "81": {
+      "0": [
+        "DUFFEL_BAG"
+      ],
+      "1": [
+        "DUFFEL_BAG"
+      ],
+      "2": [
+        "DUFFEL_BAG"
+      ],
+      "3": [
+        "DUFFEL_BAG"
+      ],
+      "4": [
+        "DUFFEL_BAG"
+      ],
+      "5": [
+        "DUFFEL_BAG"
+      ],
+      "6": [
+        "DUFFEL_BAG"
+      ],
+      "7": [
+        "DUFFEL_BAG"
+      ],
+      "8": [
+        "DUFFEL_BAG"
+      ],
+      "9": [
+        "DUFFEL_BAG"
+      ],
+      "10": [
+        "DUFFEL_BAG"
+      ],
+      "11": [
+        "DUFFEL_BAG"
+      ],
+      "12": [
+        "DUFFEL_BAG"
+      ],
+      "13": [
+        "DUFFEL_BAG"
+      ],
+      "14": [
+        "DUFFEL_BAG"
+      ],
+      "15": [
+        "DUFFEL_BAG"
+      ],
+      "16": [
+        "DUFFEL_BAG"
+      ],
+      "17": [
+        "DUFFEL_BAG"
+      ],
+      "18": [
+        "DUFFEL_BAG"
+      ],
+      "19": [
+        "DUFFEL_BAG"
+      ],
+      "20": [
+        "DUFFEL_BAG"
+      ],
+      "21": [
+        "DUFFEL_BAG"
+      ],
+      "22": [
+        "DUFFEL_BAG"
+      ],
+      "23": [
+        "DUFFEL_BAG"
+      ],
+      "24": [
+        "DUFFEL_BAG"
+      ],
+      "25": [
+        "DUFFEL_BAG"
+      ]
+    },
+    "82": {
+      "0": [
+        "DUFFEL_BAG"
+      ],
+      "1": [
+        "DUFFEL_BAG"
+      ],
+      "2": [
+        "DUFFEL_BAG"
+      ],
+      "3": [
+        "DUFFEL_BAG"
+      ],
+      "4": [
+        "DUFFEL_BAG"
+      ],
+      "5": [
+        "DUFFEL_BAG"
+      ],
+      "6": [
+        "DUFFEL_BAG"
+      ],
+      "7": [
+        "DUFFEL_BAG"
+      ],
+      "8": [
+        "DUFFEL_BAG"
+      ],
+      "9": [
+        "DUFFEL_BAG"
+      ],
+      "10": [
+        "DUFFEL_BAG"
+      ],
+      "11": [
+        "DUFFEL_BAG"
+      ],
+      "12": [
+        "DUFFEL_BAG"
+      ],
+      "13": [
+        "DUFFEL_BAG"
+      ],
+      "14": [
+        "DUFFEL_BAG"
+      ],
+      "15": [
+        "DUFFEL_BAG"
+      ],
+      "16": [
+        "DUFFEL_BAG"
+      ],
+      "17": [
+        "DUFFEL_BAG"
+      ],
+      "18": [
+        "DUFFEL_BAG"
+      ],
+      "19": [
+        "DUFFEL_BAG"
+      ],
+      "20": [
+        "DUFFEL_BAG"
+      ],
+      "21": [
+        "DUFFEL_BAG"
+      ],
+      "22": [
+        "DUFFEL_BAG"
+      ],
+      "23": [
+        "DUFFEL_BAG"
+      ],
+      "24": [
+        "DUFFEL_BAG"
+      ],
+      "25": [
+        "DUFFEL_BAG"
+      ]
+    },
+    "83": {
+      "0": [
+        "DUFFEL_BAG"
+      ],
+      "1": [
+        "DUFFEL_BAG"
+      ],
+      "2": [
+        "DUFFEL_BAG"
+      ],
+      "3": [
+        "DUFFEL_BAG"
+      ],
+      "4": [
+        "DUFFEL_BAG"
+      ],
+      "5": [
+        "DUFFEL_BAG"
+      ],
+      "6": [
+        "DUFFEL_BAG"
+      ],
+      "7": [
+        "DUFFEL_BAG"
+      ],
+      "8": [
+        "DUFFEL_BAG"
+      ],
+      "9": [
+        "DUFFEL_BAG"
+      ],
+      "10": [
+        "DUFFEL_BAG"
+      ],
+      "11": [
+        "DUFFEL_BAG"
+      ],
+      "12": [
+        "DUFFEL_BAG"
+      ],
+      "13": [
+        "DUFFEL_BAG"
+      ],
+      "14": [
+        "DUFFEL_BAG"
+      ],
+      "15": [
+        "DUFFEL_BAG"
+      ],
+      "16": [
+        "DUFFEL_BAG"
+      ],
+      "17": [
+        "DUFFEL_BAG"
+      ],
+      "18": [
+        "DUFFEL_BAG"
+      ],
+      "19": [
+        "DUFFEL_BAG"
+      ],
+      "20": [
+        "DUFFEL_BAG"
+      ],
+      "21": [
+        "DUFFEL_BAG"
+      ],
+      "22": [
+        "DUFFEL_BAG"
+      ],
+      "23": [
+        "DUFFEL_BAG"
+      ],
+      "24": [
+        "DUFFEL_BAG"
+      ],
+      "25": [
+        "DUFFEL_BAG"
+      ]
+    },
+    "84": {
+      "0": [
+        "DUFFEL_BAG"
+      ],
+      "1": [
+        "DUFFEL_BAG"
+      ],
+      "2": [
+        "DUFFEL_BAG"
+      ],
+      "3": [
+        "DUFFEL_BAG"
+      ],
+      "4": [
+        "DUFFEL_BAG"
+      ],
+      "5": [
+        "DUFFEL_BAG"
+      ],
+      "6": [
+        "DUFFEL_BAG"
+      ],
+      "7": [
+        "DUFFEL_BAG"
+      ],
+      "8": [
+        "DUFFEL_BAG"
+      ],
+      "9": [
+        "DUFFEL_BAG"
+      ],
+      "10": [
+        "DUFFEL_BAG"
+      ],
+      "11": [
+        "DUFFEL_BAG"
+      ],
+      "12": [
+        "DUFFEL_BAG"
+      ],
+      "13": [
+        "DUFFEL_BAG"
+      ],
+      "14": [
+        "DUFFEL_BAG"
+      ],
+      "15": [
+        "DUFFEL_BAG"
+      ],
+      "16": [
+        "DUFFEL_BAG"
+      ],
+      "17": [
+        "DUFFEL_BAG"
+      ],
+      "18": [
+        "DUFFEL_BAG"
+      ],
+      "19": [
+        "DUFFEL_BAG"
+      ],
+      "20": [
+        "DUFFEL_BAG"
+      ],
+      "21": [
+        "DUFFEL_BAG"
+      ],
+      "22": [
+        "DUFFEL_BAG"
+      ],
+      "23": [
+        "DUFFEL_BAG"
+      ],
+      "24": [
+        "DUFFEL_BAG"
+      ],
+      "25": [
+        "DUFFEL_BAG"
+      ]
     }
   },
   "6": {
@@ -14185,8 +15256,8 @@
     "24": {
       "0": [
         "PILOT_SUIT",
-        "OUTFIT_ONLY",
-        "OUTFIT_CHECKS"
+        "OUTFIT_CHECKS",
+        "OUTFIT_ONLY"
       ]
     },
     "25": {
@@ -18177,6 +19248,11 @@
         "HAS_ALT_VERSION",
         "ALT_FEET"
       ]
+    },
+    "95": {
+      "0": [
+        "DRAW_3"
+      ]
     }
   },
   "7": {
@@ -19945,6 +21021,31 @@
         "TIE",
         "HIGH_ROLLER_TIE"
       ]
+    },
+    "133": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": [],
+      "10": [],
+      "11": []
+    },
+    "134": {
+      "0": [
+        "CHAIN"
+      ]
+    },
+    "135": {
+      "0": [
+        "CHAIN",
+        "ALT_CHAIN"
+      ]
     }
   },
   "8": {
@@ -21308,12 +22409,14 @@
       "0": [
         "DRAW_7",
         "UNDER_JACKET",
-        "OPEN_COLLAR"
+        "OPEN_COLLAR",
+        "VEST_SHIRT"
       ],
       "1": [
         "DRAW_7",
         "UNDER_JACKET",
-        "OPEN_COLLAR"
+        "OPEN_COLLAR",
+        "VEST_SHIRT"
       ]
     },
     "50": {
@@ -21321,13 +22424,15 @@
         "DRAW_6",
         "UNDER_JACKET",
         "CLOSED_COLLAR",
-        "ALT_SPECIAL"
+        "ALT_SPECIAL",
+        "VEST_SHIRT"
       ],
       "1": [
         "DRAW_6",
         "UNDER_JACKET",
         "CLOSED_COLLAR",
-        "ALT_SPECIAL"
+        "ALT_SPECIAL",
+        "VEST_SHIRT"
       ]
     },
     "51": {
@@ -26771,6 +27876,686 @@
         "TUX_SHIRT",
         "OPEN_COLLAR"
       ]
+    },
+    "151": {
+      "0": [
+        "H3_CLOTH",
+        "H3_DRAW_0",
+        "OUTFIT_CHECKS"
+      ],
+      "1": [
+        "H3_CLOTH",
+        "H3_DRAW_0",
+        "OUTFIT_CHECKS"
+      ]
+    },
+    "152": {
+      "0": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "1": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "2": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "3": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "4": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "5": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "6": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "7": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "8": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "9": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "10": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "11": [
+        "X17_CLOTH",
+        "X17_DRAW_2",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ]
+    },
+    "153": {
+      "0": [
+        "H3_CLOTH",
+        "H3_DRAW_2",
+        "OUTFIT_CHECKS"
+      ]
+    },
+    "154": {
+      "0": [
+        "H3_CLOTH",
+        "H3_DRAW_3",
+        "OUTFIT_CHECKS"
+      ]
+    },
+    "155": {
+      "0": [
+        "H3_CLOTH",
+        "H3_DRAW_4",
+        "OUTFIT_CHECKS"
+      ]
+    },
+    "156": {
+      "0": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "1": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "2": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "3": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ],
+      "4": [
+        "H3_CLOTH",
+        "H3_DRAW_5",
+        "OUTFIT_CHECKS"
+      ]
+    },
+    "157": {
+      "0": [
+        "UNDER_JACKET",
+        "LONG_SLEEVE",
+        "VEST_SHIRT",
+        "OPEN_COLLAR"
+      ]
+    },
+    "158": {
+      "0": [
+        "UNDER_JACKET",
+        "LONG_SLEEVE",
+        "VEST_SHIRT",
+        "CLOSED_COLLAR"
+      ]
+    },
+    "159": {
+      "0": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "1": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "2": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "3": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "4": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "5": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "6": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "7": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "8": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "9": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "10": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "11": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "12": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "13": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "14": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "15": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "16": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "17": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "18": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ],
+      "19": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR"
+      ]
+    },
+    "160": {
+      "0": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "1": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "2": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "3": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "4": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "5": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "6": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "7": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "8": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "9": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "10": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "11": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "12": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "13": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "14": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "15": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "16": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "17": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "18": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ],
+      "19": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL"
+      ]
+    },
+    "161": {
+      "0": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "1": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "2": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "3": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "4": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "5": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "6": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "7": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "8": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "9": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "10": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "11": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "12": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "13": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "14": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "15": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "16": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "17": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "18": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ],
+      "19": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "OPEN_COLLAR",
+        "ALT_VEST"
+      ]
+    },
+    "162": {
+      "0": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "1": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "2": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "3": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "4": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "5": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "6": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "7": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "8": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "9": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "10": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "11": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "12": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "13": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "14": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "15": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "16": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "17": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "18": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ],
+      "19": [
+        "TUX_VEST",
+        "UNDER_JACKET",
+        "CLOSED_COLLAR",
+        "ALT_SPECIAL",
+        "ALT_VEST"
+      ]
+    },
+    "163": {
+      "0": [
+        "HEIST_GEAR",
+        "HEIST_DRAW_0",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET"
+      ]
+    },
+    "164": {
+      "0": [
+        "X17_CLOTH",
+        "X17_DRAW_4",
+        "OUTFIT_CHECKS",
+        "OVER_JACKET",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ]
     }
   },
   "9": {
@@ -27121,6 +28906,15 @@
       "0": []
     },
     "52": {
+      "0": []
+    },
+    "53": {
+      "0": []
+    },
+    "54": {
+      "0": []
+    },
+    "55": {
       "0": []
     }
   },
@@ -27512,6 +29306,70 @@
       "16": [],
       "17": [],
       "18": []
+    },
+    "64": {
+      "0": []
+    },
+    "65": {
+      "0": [
+        "CREW_LOGO",
+        "BACK_CREW_LOGO"
+      ]
+    },
+    "66": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": []
+    },
+    "67": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": []
+    },
+    "68": {
+      "0": [
+        "CREW_LOGO",
+        "BACK_CREW_LOGO"
+      ]
+    },
+    "69": {
+      "0": [
+        "CREW_LOGO",
+        "BACK_CREW_LOGO"
+      ]
+    },
+    "70": {
+      "0": [],
+      "1": []
+    },
+    "71": {
+      "0": []
+    },
+    "72": {
+      "0": []
+    },
+    "73": {
+      "0": []
+    },
+    "74": {
+      "0": []
+    },
+    "75": {
+      "0": []
+    },
+    "76": {
+      "0": []
+    },
+    "77": {
+      "0": []
     }
   },
   "11": {
@@ -27830,23 +29688,23 @@
     "20": {
       "0": [
         "JACKET",
-        "DRAW_10",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "DRAW_10"
       ],
       "1": [
         "JACKET",
-        "DRAW_10",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "DRAW_10"
       ],
       "2": [
         "JACKET",
-        "DRAW_10",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "DRAW_10"
       ],
       "3": [
         "JACKET",
-        "DRAW_10",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "DRAW_10"
       ]
     },
     "21": {
@@ -28420,20 +30278,20 @@
       "0": [
         "DRAW_4",
         "JACKET",
-        "TAILS_JACKET",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "TAILS_JACKET"
       ],
       "1": [
         "DRAW_4",
         "JACKET",
-        "TAILS_JACKET",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "TAILS_JACKET"
       ],
       "2": [
         "DRAW_4",
         "JACKET",
-        "TAILS_JACKET",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "TAILS_JACKET"
       ]
     },
     "47": {
@@ -28577,34 +30435,34 @@
       "0": [
         "DRAW_4",
         "JACKET",
-        "TAILS_JACKET",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "TAILS_JACKET"
       ]
     },
     "59": {
       "0": [
         "DRAW_4",
         "JACKET",
-        "SCRUFFY_JACKET",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "SCRUFFY_JACKET"
       ],
       "1": [
         "DRAW_4",
         "JACKET",
-        "SCRUFFY_JACKET",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "SCRUFFY_JACKET"
       ],
       "2": [
         "DRAW_4",
         "JACKET",
-        "SCRUFFY_JACKET",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "SCRUFFY_JACKET"
       ],
       "3": [
         "DRAW_4",
         "JACKET",
-        "SCRUFFY_JACKET",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "SCRUFFY_JACKET"
       ]
     },
     "60": {
@@ -28612,29 +30470,29 @@
         "DRAW_4",
         "HEIST_DRAW_7",
         "JACKET",
-        "SCRUFFY_JACKET",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "SCRUFFY_JACKET"
       ],
       "1": [
         "DRAW_4",
         "HEIST_DRAW_7",
         "JACKET",
-        "SCRUFFY_JACKET",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "SCRUFFY_JACKET"
       ],
       "2": [
         "DRAW_4",
         "HEIST_DRAW_7",
         "JACKET",
-        "SCRUFFY_JACKET",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "SCRUFFY_JACKET"
       ],
       "3": [
         "DRAW_4",
         "HEIST_DRAW_7",
         "JACKET",
-        "SCRUFFY_JACKET",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "SCRUFFY_JACKET"
       ]
     },
     "61": {
@@ -28684,8 +30542,8 @@
       "0": [
         "DRAW_6",
         "JACKET",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ]
     },
     "65": {
@@ -28859,97 +30717,97 @@
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "1": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "2": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "3": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "4": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "5": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "6": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "7": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "8": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "9": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "10": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ],
       "11": [
         "LUXE_DRAW_0",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LUXE_COAT",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "LONG_SLEEVE"
       ]
     },
     "71": {
@@ -29171,89 +31029,89 @@
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "1": [
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "2": [
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "3": [
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "4": [
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "5": [
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "6": [
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "7": [
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "8": [
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "9": [
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "10": [
         "LUXE_DRAW_5",
         "LUXE_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ]
     },
     "76": {
@@ -29575,97 +31433,97 @@
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "1": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "2": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "3": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "4": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "5": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "6": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "7": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "8": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "9": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "10": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ],
       "11": [
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ]
     },
     "88": {
@@ -29674,96 +31532,96 @@
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "1": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "2": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "3": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "4": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "5": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "6": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "7": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "8": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "9": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "10": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "11": [
         "DRAW_4",
         "LOW_DRAW_8",
         "LOW_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ]
     },
     "89": {
@@ -29793,12 +31651,12 @@
         "LOW_DRAW_7",
         "LOW_BOMB",
         "JACKET",
+        "JACKET_ONLY",
+        "CLOSED_JACKET",
         "LONG_SLEEVE",
         "CREW_COL",
         "CREW_LOCK",
-        "CREW_JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CREW_JACKET"
       ]
     },
     "91": {
@@ -30175,9 +32033,9 @@
       "0": [
         "DRAW_6",
         "JACKET",
+        "CLOSED_JACKET",
         "LOW2_DRAW_3",
-        "NO_CREW_EMBLEM",
-        "CLOSED_JACKET"
+        "NO_CREW_EMBLEM"
       ]
     },
     "125": {
@@ -30185,8 +32043,8 @@
         "LOW2_DRAW_4",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ]
     },
     "126": {
@@ -30375,9 +32233,9 @@
         "JAN_DRAW_1",
         "JAN_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
         "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "LONG_SLEEVE"
       ]
     },
     "130": {
@@ -30386,8 +32244,8 @@
         "JAN_DRAW_2",
         "JAN_BOMB",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ]
     },
     "131": {
@@ -30532,8 +32390,8 @@
         "APART_DRAW_19",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
         "CLOSED_JACKET",
+        "JACKET_ONLY",
         "BLOCK_SCARFS",
         "BLOCK_CHAINS"
       ],
@@ -30541,8 +32399,8 @@
         "APART_DRAW_19",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
         "CLOSED_JACKET",
+        "JACKET_ONLY",
         "BLOCK_SCARFS",
         "BLOCK_CHAINS"
       ],
@@ -30550,8 +32408,8 @@
         "APART_DRAW_19",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
         "CLOSED_JACKET",
+        "JACKET_ONLY",
         "BLOCK_SCARFS",
         "BLOCK_CHAINS"
       ]
@@ -30733,78 +32591,78 @@
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "1": [
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "2": [
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "3": [
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "4": [
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "5": [
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "6": [
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "7": [
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "8": [
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "9": [
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "10": [
         "APART_DRAW_22",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ]
     },
     "142": {
@@ -30813,24 +32671,24 @@
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "1": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "2": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ]
     },
     "143": {
@@ -31234,152 +33092,152 @@
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "1": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "2": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "3": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "4": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "5": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "6": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "7": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "8": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "9": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "10": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "11": [
         "STUNT_CLOTH",
         "STUNT_DRAW_3",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ]
     },
     "151": {
       "0": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_4",
-        "OPEN_JACKET"
+        "STUNT_DRAW_4"
       ],
       "1": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_4",
-        "OPEN_JACKET"
+        "STUNT_DRAW_4"
       ],
       "2": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_4",
-        "OPEN_JACKET"
+        "STUNT_DRAW_4"
       ],
       "3": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_4",
-        "OPEN_JACKET"
+        "STUNT_DRAW_4"
       ],
       "4": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_4",
-        "OPEN_JACKET"
+        "STUNT_DRAW_4"
       ],
       "5": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_4",
-        "OPEN_JACKET"
+        "STUNT_DRAW_4"
       ]
     },
     "152": {
@@ -31486,234 +33344,234 @@
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "1": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "2": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "3": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "4": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "5": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "6": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "7": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "8": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "9": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "10": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "11": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "12": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "13": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "14": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "15": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "16": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "17": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "18": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "19": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "20": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "21": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "22": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "23": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "24": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "25": [
         "STUNT_CLOTH",
         "STUNT_DRAW_6",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ]
     },
     "154": {
@@ -31722,72 +33580,72 @@
         "STUNT_DRAW_7",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "1": [
         "STUNT_CLOTH",
         "STUNT_DRAW_7",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "2": [
         "STUNT_CLOTH",
         "STUNT_DRAW_7",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "3": [
         "STUNT_CLOTH",
         "STUNT_DRAW_7",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "4": [
         "STUNT_CLOTH",
         "STUNT_DRAW_7",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "5": [
         "STUNT_CLOTH",
         "STUNT_DRAW_7",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "6": [
         "STUNT_CLOTH",
         "STUNT_DRAW_7",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ],
       "7": [
         "STUNT_CLOTH",
         "STUNT_DRAW_7",
         "OUTFIT_CHECKS",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "LONG_SLEEVE",
-        "CLOSED_JACKET"
+        "LONG_SLEEVE"
       ]
     },
     "155": {
@@ -31820,163 +33678,163 @@
       "0": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_9",
-        "OPEN_JACKET"
+        "STUNT_DRAW_9"
       ],
       "1": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_9",
-        "OPEN_JACKET"
+        "STUNT_DRAW_9"
       ],
       "2": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_9",
-        "OPEN_JACKET"
+        "STUNT_DRAW_9"
       ],
       "3": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_9",
-        "OPEN_JACKET"
+        "STUNT_DRAW_9"
       ],
       "4": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_9",
-        "OPEN_JACKET"
+        "STUNT_DRAW_9"
       ],
       "5": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
-        "STUNT_DRAW_9",
-        "OPEN_JACKET"
+        "STUNT_DRAW_9"
       ]
     },
     "157": {
       "0": [
         "BIKER_DRAW_0",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_0",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "BIKER_DRAW_0",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "3": [
         "BIKER_DRAW_0",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "158": {
       "0": [
         "BIKER_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "BIKER_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "159": {
       "0": [
         "BIKER_DRAW_2",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_2",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "160": {
       "0": [
         "BIKER_DRAW_3",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_3",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "161": {
       "0": [
         "BIKER_DRAW_4",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_4",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "BIKER_DRAW_4",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "3": [
         "BIKER_DRAW_4",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "162": {
@@ -31984,43 +33842,43 @@
         "BIKER_DRAW_5",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_5",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "BIKER_DRAW_5",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "3": [
         "BIKER_DRAW_5",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "163": {
       "0": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_6",
-        "OPEN_JACKET"
+        "BIKER_DRAW_6"
       ]
     },
     "164": {
@@ -32042,320 +33900,320 @@
         "BIKER_DRAW_8",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "1": [
         "BIKER_DRAW_8",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "2": [
         "BIKER_DRAW_8",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "3": [
         "BIKER_DRAW_8",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "4": [
         "BIKER_DRAW_8",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "5": [
         "BIKER_DRAW_8",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ],
       "6": [
         "BIKER_DRAW_8",
         "LONG_SLEEVE",
         "JACKET",
-        "JACKET_ONLY",
-        "CLOSED_JACKET"
+        "CLOSED_JACKET",
+        "JACKET_ONLY"
       ]
     },
     "166": {
       "0": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ],
       "1": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ],
       "2": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ],
       "3": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ],
       "4": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ],
       "5": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ]
     },
     "167": {
       "0": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "1": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "2": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "3": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "4": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "5": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "6": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "7": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "8": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "9": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "10": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "11": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "12": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "13": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "14": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "15": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ]
     },
     "168": {
       "0": [
         "DRAW_6",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_DRAW_11",
         "BLOCK_CHAINS",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "DRAW_6",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_DRAW_11",
         "BLOCK_CHAINS",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "DRAW_6",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_DRAW_11",
         "BLOCK_CHAINS",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "169": {
       "0": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_12",
-        "OPEN_JACKET"
+        "BIKER_DRAW_12"
       ],
       "1": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_12",
-        "OPEN_JACKET"
+        "BIKER_DRAW_12"
       ],
       "2": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_12",
-        "OPEN_JACKET"
+        "BIKER_DRAW_12"
       ],
       "3": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_12",
-        "OPEN_JACKET"
+        "BIKER_DRAW_12"
       ]
     },
     "170": {
       "0": [
         "BIKER_DRAW_13",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_13",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "BIKER_DRAW_13",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "3": [
         "BIKER_DRAW_13",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "171": {
@@ -32378,98 +34236,98 @@
       "0": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_12",
-        "OPEN_JACKET"
+        "BIKER_DRAW_12"
       ],
       "1": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_12",
-        "OPEN_JACKET"
+        "BIKER_DRAW_12"
       ],
       "2": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_12",
-        "OPEN_JACKET"
+        "BIKER_DRAW_12"
       ],
       "3": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_12",
-        "OPEN_JACKET"
+        "BIKER_DRAW_12"
       ]
     },
     "173": {
       "0": [
         "BIKER_DRAW_13",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_13",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "BIKER_DRAW_13",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "3": [
         "BIKER_DRAW_13",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "174": {
       "0": [
         "BIKER_DRAW_4",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_4",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "BIKER_DRAW_4",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "3": [
         "BIKER_DRAW_4",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "175": {
@@ -32477,42 +34335,42 @@
         "BIKER_DRAW_5",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_5",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "BIKER_DRAW_5",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "3": [
         "BIKER_DRAW_5",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "176": {
       "0": [
         "BIKER_DRAW_2",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "177": {
@@ -32520,64 +34378,64 @@
         "BIKER_DRAW_20",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
-        "BLOCK_CHAINS",
-        "CLOSED_JACKET"
+        "BLOCK_CHAINS"
       ],
       "1": [
         "BIKER_DRAW_20",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
-        "BLOCK_CHAINS",
-        "CLOSED_JACKET"
+        "BLOCK_CHAINS"
       ],
       "2": [
         "BIKER_DRAW_20",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
-        "BLOCK_CHAINS",
-        "CLOSED_JACKET"
+        "BLOCK_CHAINS"
       ],
       "3": [
         "BIKER_DRAW_20",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
-        "BLOCK_CHAINS",
-        "CLOSED_JACKET"
+        "BLOCK_CHAINS"
       ],
       "4": [
         "BIKER_DRAW_20",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
-        "BLOCK_CHAINS",
-        "CLOSED_JACKET"
+        "BLOCK_CHAINS"
       ],
       "5": [
         "BIKER_DRAW_20",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
-        "BLOCK_CHAINS",
-        "CLOSED_JACKET"
+        "BLOCK_CHAINS"
       ],
       "6": [
         "BIKER_DRAW_20",
         "BIKER_VEST",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
-        "BLOCK_CHAINS",
-        "CLOSED_JACKET"
+        "BLOCK_CHAINS"
       ]
     },
     "178": {
@@ -32663,103 +34521,103 @@
       "0": [
         "BIKER_DRAW_0",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_0",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "BIKER_DRAW_0",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ],
       "3": [
         "BIKER_DRAW_0",
         "JACKET",
+        "OPEN_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "OPEN_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "180": {
       "0": [
         "BIKER_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "1": [
         "BIKER_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ],
       "2": [
         "BIKER_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "BIKER_VEST",
-        "BLOCK_SCARFS",
-        "CLOSED_JACKET"
+        "BLOCK_SCARFS"
       ]
     },
     "181": {
       "0": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ],
       "1": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ],
       "2": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ],
       "3": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ],
       "4": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ],
       "5": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_9",
-        "OPEN_JACKET"
+        "BIKER_DRAW_9"
       ]
     },
     "182": {
@@ -32823,10 +34681,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -32835,10 +34693,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -32847,11 +34705,11 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
         "NO_CREW_EMBLEM",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -32860,11 +34718,11 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
         "NO_CREW_EMBLEM",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -32875,10 +34733,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -32887,10 +34745,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -32899,11 +34757,11 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
         "NO_CREW_EMBLEM",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -32912,11 +34770,11 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
         "NO_CREW_EMBLEM",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -32961,145 +34819,145 @@
       "0": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "1": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "2": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "3": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "4": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "5": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "6": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "7": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "8": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "9": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "10": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "11": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "12": [
         "IE_DRAW_1",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ]
     },
     "188": {
@@ -33107,10 +34965,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33119,10 +34977,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33131,10 +34989,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33143,10 +35001,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33155,10 +35013,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33167,10 +35025,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33179,10 +35037,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33191,10 +35049,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33203,10 +35061,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33215,10 +35073,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33227,10 +35085,10 @@
         "BIKER_DRAW_27",
         "LONG_SLEEVE",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_CHAINS",
         "BLOCK_SCARFS",
-        "CLOSED_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33241,10 +35099,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33253,10 +35111,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33265,10 +35123,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33277,10 +35135,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33289,10 +35147,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33301,10 +35159,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33313,10 +35171,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33325,10 +35183,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33337,10 +35195,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33349,10 +35207,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33361,10 +35219,10 @@
         "BIKER_DRAW_28",
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "OVERCOAT_JBIB",
-        "OPEN_JACKET",
         "FITTED_HOOD",
         "HOOD_DOWN",
         "HOODED_JACKET"
@@ -33480,210 +35338,210 @@
       "0": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "1": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "2": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "3": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "4": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "5": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "6": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "7": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "8": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "9": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "10": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "11": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "12": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "13": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "14": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "15": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "16": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "17": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "18": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "19": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "20": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "21": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "22": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "23": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "24": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ],
       "25": [
         "DRAW_4",
         "JACKET",
+        "OPEN_JACKET",
         "BLOCK_SCARFS",
         "LONG_SLEEVE",
-        "BIKER_DRAW_10",
-        "OPEN_JACKET"
+        "BIKER_DRAW_10"
       ]
     },
     "192": {
@@ -33692,96 +35550,96 @@
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "1": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "2": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "3": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "4": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "5": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "6": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "7": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "8": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "9": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "10": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ],
       "11": [
         "APART_DRAW_24",
         "APART_CLOTH",
         "OUTFIT_CHECKS",
         "JACKET",
-        "LONG_SLEEVE",
-        "OPEN_JACKET"
+        "OPEN_JACKET",
+        "LONG_SLEEVE"
       ]
     },
     "193": {
@@ -34399,52 +36257,52 @@
       "0": [
         "IE_DRAW_16",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "1": [
         "IE_DRAW_16",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "2": [
         "IE_DRAW_16",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "3": [
         "IE_DRAW_16",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "4": [
         "IE_DRAW_16",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ]
     },
     "203": {
@@ -34687,197 +36545,197 @@
       "0": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "1": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "2": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "3": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "4": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "5": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "6": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "7": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "8": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "9": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "10": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "11": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "12": [
         "IE_DRAW_18",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "LONG_SLEEVE",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_UP",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ]
     },
     "205": {
       "0": [
         "IE_DRAW_19",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "1": [
         "IE_DRAW_19",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "2": [
         "IE_DRAW_19",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "3": [
         "IE_DRAW_19",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ],
       "4": [
         "IE_DRAW_19",
         "JACKET",
+        "CLOSED_JACKET",
         "JACKET_ONLY",
         "BLOCK_SCARFS",
         "FITTED_HOOD",
         "HOOD_DOWN",
-        "HOODED_JACKET",
-        "CLOSED_JACKET"
+        "HOODED_JACKET"
       ]
     },
     "206": {
@@ -48633,6 +50491,365 @@
         "DRAW_1"
       ],
       "14": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "15": [
+        "DRAW_1"
+      ],
+      "16": [
+        "DRAW_1"
+      ],
+      "17": [
+        "DRAW_1"
+      ],
+      "18": [
+        "DRAW_1"
+      ],
+      "19": [
+        "DRAW_1"
+      ],
+      "20": [
+        "DRAW_1"
+      ]
+    },
+    "314": {
+      "0": [
+        "IE_CLOTH",
+        "IE_DRAW_15",
+        "OUTFIT_CHECKS",
+        "MORPH_SUIT",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS"
+      ],
+      "1": [
+        "IE_CLOTH",
+        "IE_DRAW_15",
+        "OUTFIT_CHECKS",
+        "MORPH_SUIT",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS"
+      ]
+    },
+    "315": {
+      "0": [
+        "IE_CLOTH",
+        "IE_DRAW_15",
+        "OUTFIT_CHECKS",
+        "MORPH_SUIT",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS"
+      ],
+      "1": [
+        "IE_CLOTH",
+        "IE_DRAW_15",
+        "OUTFIT_CHECKS",
+        "MORPH_SUIT",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS"
+      ]
+    },
+    "316": {
+      "0": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "1": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "2": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "3": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "4": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "5": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "6": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "7": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "8": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ]
+    },
+    "317": {
+      "0": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "OPEN_COLLAR"
+      ],
+      "1": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "OPEN_COLLAR"
+      ],
+      "2": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "OPEN_COLLAR"
+      ],
+      "3": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "OPEN_COLLAR"
+      ],
+      "4": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "OPEN_COLLAR"
+      ],
+      "5": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "OPEN_COLLAR"
+      ],
+      "6": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "OPEN_COLLAR"
+      ],
+      "7": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "OPEN_COLLAR"
+      ],
+      "8": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "OPEN_COLLAR"
+      ]
+    },
+    "318": {
+      "0": [
+        "DRAW_13",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "1": [
+        "DRAW_13",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "2": [
+        "DRAW_13",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "3": [
+        "DRAW_13",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "4": [
+        "DRAW_13",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "5": [
+        "DRAW_13",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "6": [
+        "DRAW_13",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "7": [
+        "DRAW_13",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ],
+      "8": [
+        "DRAW_13",
+        "CLOSED_COLLAR",
+        "ALT_JBIB"
+      ]
+    },
+    "319": {
+      "0": [
+        "DRAW_13",
+        "OPEN_COLLAR"
+      ],
+      "1": [
+        "DRAW_13",
+        "OPEN_COLLAR"
+      ],
+      "2": [
+        "DRAW_13",
+        "OPEN_COLLAR"
+      ],
+      "3": [
+        "DRAW_13",
+        "OPEN_COLLAR"
+      ],
+      "4": [
+        "DRAW_13",
+        "OPEN_COLLAR"
+      ],
+      "5": [
+        "DRAW_13",
+        "OPEN_COLLAR"
+      ],
+      "6": [
+        "DRAW_13",
+        "OPEN_COLLAR"
+      ],
+      "7": [
+        "DRAW_13",
+        "OPEN_COLLAR"
+      ],
+      "8": [
+        "DRAW_13",
+        "OPEN_COLLAR"
+      ]
+    },
+    "320": {
+      "0": [
+        "IE_CLOTH",
+        "IE_DRAW_15",
+        "OUTFIT_CHECKS",
+        "MORPH_SUIT",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS"
+      ]
+    },
+    "321": {
+      "0": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "OPEN_COLLAR",
+        "VEST_SHIRT",
+        "H3_DRAW_7"
+      ]
+    },
+    "322": {
+      "0": [
+        "DRAW_13",
+        "LONG_SLEEVE",
+        "BLOCK_CHAINS",
+        "USE_JACKET_SCARF",
+        "CLOSED_COLLAR",
+        "ALT_JBIB",
+        "VEST_SHIRT",
+        "H3_DRAW_8"
+      ]
+    },
+    "323": {
+      "0": [
+        "DRAW_1"
+      ],
+      "1": [
+        "DRAW_1"
+      ],
+      "2": [
+        "DRAW_1"
+      ],
+      "3": [
+        "DRAW_1"
+      ],
+      "4": [
+        "DRAW_1"
+      ],
+      "5": [
+        "DRAW_1"
+      ],
+      "6": [
+        "DRAW_1"
+      ],
+      "7": [
+        "DRAW_1"
+      ],
+      "8": [
+        "DRAW_1"
+      ],
+      "9": [
+        "DRAW_1"
+      ],
+      "10": [
+        "DRAW_1"
+      ],
+      "11": [
+        "DRAW_1"
+      ],
+      "12": [
+        "DRAW_1"
+      ],
+      "13": [
+        "DRAW_1"
+      ],
+      "14": [
         "DRAW_1"
       ],
       "15": [
@@ -48652,6 +50869,287 @@
       ],
       "20": [
         "DRAW_1"
+      ],
+      "21": [
+        "DRAW_1"
+      ],
+      "22": [
+        "DRAW_1"
+      ],
+      "23": [
+        "DRAW_1"
+      ],
+      "24": [
+        "DRAW_1"
+      ],
+      "25": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ]
+    },
+    "324": {
+      "0": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "1": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "2": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "3": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "4": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "5": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "6": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "7": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "8": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "9": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "10": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "11": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "12": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "13": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "14": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "15": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "16": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "17": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "18": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ],
+      "19": [
+        "GUN_DRAW_15",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ]
+    },
+    "325": {
+      "0": [
+        "DRAW_1"
+      ],
+      "1": [
+        "DRAW_1"
+      ],
+      "2": [
+        "DRAW_1"
+      ],
+      "3": [
+        "DRAW_1"
+      ],
+      "4": [
+        "DRAW_1"
+      ],
+      "5": [
+        "DRAW_1"
+      ],
+      "6": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "7": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "8": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "9": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "10": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "11": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "12": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "13": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "14": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "15": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "16": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "17": [
+        "DRAW_1",
+        "MULTI_DECAL"
+      ],
+      "18": [
+        "DRAW_1"
+      ],
+      "19": [
+        "DRAW_1"
+      ],
+      "20": [
+        "DRAW_1"
+      ],
+      "21": [
+        "DRAW_1"
+      ],
+      "22": [
+        "DRAW_1"
+      ],
+      "23": [
+        "DRAW_1"
+      ]
+    },
+    "326": {
+      "0": [
+        "LUXE2_DRAW_2",
+        "LUXE_SWEAT",
+        "LONG_SLEEVE"
+      ]
+    },
+    "327": {
+      "0": [
+        "BIKER_DRAW_1",
+        "JACKET",
+        "CLOSED_JACKET",
+        "BIKER_VEST",
+        "BLOCK_SCARFS"
+      ]
+    },
+    "328": {
+      "0": [
+        "GUN_DRAW_14",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS"
+      ]
+    },
+    "329": {
+      "0": [
+        "STUNT_CLOTH",
+        "STUNT_DRAW_3",
+        "OUTFIT_CHECKS",
+        "JACKET",
+        "CLOSED_JACKET",
+        "JACKET_ONLY",
+        "LONG_SLEEVE"
+      ]
+    },
+    "330": {
+      "0": [
+        "APART_DRAW_5",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS",
+        "FITTED_HOOD",
+        "HOOD_DOWN",
+        "HOODED_JACKET"
+      ]
+    },
+    "331": {
+      "0": [
+        "APART_DRAW_5",
+        "LONG_SLEEVE",
+        "BLOCK_SCARFS",
+        "BLOCK_CHAINS",
+        "FITTED_HOOD",
+        "HOOD_UP",
+        "HOODED_JACKET"
       ]
     }
   }

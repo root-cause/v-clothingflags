@@ -1743,126 +1743,126 @@
     "90": {
       "0": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ],
       "1": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ],
       "2": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ],
       "3": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ],
       "4": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ],
       "5": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ],
       "6": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ],
       "7": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ],
       "8": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ],
       "9": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ],
       "10": [
         "HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "FULL_FACE",
+        "DEADLINE_OUTFIT"
       ]
     },
     "91": {
       "0": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ],
       "1": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ],
       "2": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ],
       "3": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ],
       "4": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ],
       "5": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ],
       "6": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ],
       "7": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ],
       "8": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ],
       "9": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ],
       "10": [
         "HELMET",
+        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT",
-        "FULL_FACE"
+        "DEADLINE_OUTFIT"
       ]
     },
     "92": {
@@ -4896,6 +4896,412 @@
         "CASINO_ITEM",
         "HAT",
         "BACKWARDS_HAT"
+      ]
+    },
+    "136": {
+      "0": [
+        "HELMET"
+      ],
+      "1": [
+        "HELMET"
+      ],
+      "2": [
+        "HELMET"
+      ]
+    },
+    "137": {
+      "0": [
+        "HELMET"
+      ],
+      "1": [
+        "HELMET"
+      ],
+      "2": [
+        "HELMET"
+      ]
+    },
+    "138": {
+      "0": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "1": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "2": [
+        "HAT",
+        "HOOD_HAT"
+      ]
+    },
+    "139": {
+      "0": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "1": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "2": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ]
+    },
+    "140": {
+      "0": [
+        "HELMET"
+      ]
+    },
+    "141": {
+      "0": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "1": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "2": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "3": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "4": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "5": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "6": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "7": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "8": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "9": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "10": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "11": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "12": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "13": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "14": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "15": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "16": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "17": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "18": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "19": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "20": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "21": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "22": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "23": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "24": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "25": [
+        "HAT",
+        "HOOD_HAT"
+      ]
+    },
+    "142": {
+      "0": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "1": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "2": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "3": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "4": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "5": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "6": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "7": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "8": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "9": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "10": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "11": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "12": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "13": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "14": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "15": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "16": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "17": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "18": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "19": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "20": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "21": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "22": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "23": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "24": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "25": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ]
+    },
+    "143": {
+      "0": [
+        "HELMET"
+      ]
+    },
+    "144": {
+      "0": [
+        "HELMET"
+      ],
+      "1": [
+        "HELMET"
+      ],
+      "2": [
+        "HELMET"
+      ],
+      "3": [
+        "HELMET"
+      ]
+    },
+    "145": {
+      "0": [
+        "HAT"
+      ],
+      "1": [
+        "HAT"
+      ],
+      "2": [
+        "HAT"
+      ],
+      "3": [
+        "HAT"
+      ],
+      "4": [
+        "HAT"
+      ],
+      "5": [
+        "HAT"
+      ],
+      "6": [
+        "HAT"
+      ],
+      "7": [
+        "HAT"
+      ],
+      "8": [
+        "HAT"
+      ],
+      "9": [
+        "HAT"
+      ],
+      "10": [
+        "HAT"
+      ],
+      "11": [
+        "HAT"
+      ],
+      "12": [
+        "HAT"
+      ],
+      "13": [
+        "HAT"
+      ]
+    },
+    "146": {
+      "0": [
+        "HELMET",
+        "NIGHT_VISION",
+        "BLOCK_GLASSES"
+      ],
+      "1": [
+        "HELMET",
+        "NIGHT_VISION",
+        "BLOCK_GLASSES"
+      ],
+      "2": [
+        "HELMET",
+        "NIGHT_VISION",
+        "BLOCK_GLASSES"
+      ],
+      "3": [
+        "HELMET",
+        "NIGHT_VISION",
+        "BLOCK_GLASSES"
+      ],
+      "4": [
+        "HELMET",
+        "NIGHT_VISION",
+        "BLOCK_GLASSES"
+      ],
+      "5": [
+        "HELMET",
+        "NIGHT_VISION",
+        "BLOCK_GLASSES"
+      ],
+      "6": [
+        "HELMET",
+        "NIGHT_VISION",
+        "BLOCK_GLASSES"
+      ],
+      "7": [
+        "HELMET",
+        "NIGHT_VISION",
+        "BLOCK_GLASSES"
+      ]
+    },
+    "147": {
+      "0": [
+        "HELMET",
+        "ALT_HELMET"
+      ],
+      "1": [
+        "HELMET",
+        "ALT_HELMET"
+      ],
+      "2": [
+        "HELMET",
+        "ALT_HELMET"
+      ],
+      "3": [
+        "HELMET",
+        "ALT_HELMET"
+      ],
+      "4": [
+        "HELMET",
+        "ALT_HELMET"
+      ],
+      "5": [
+        "HELMET",
+        "ALT_HELMET"
+      ],
+      "6": [
+        "HELMET",
+        "ALT_HELMET"
+      ],
+      "7": [
+        "HELMET",
+        "ALT_HELMET"
       ]
     }
   },
