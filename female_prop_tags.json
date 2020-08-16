@@ -1743,126 +1743,126 @@
     "90": {
       "0": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "1": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "2": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "3": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "4": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "5": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "6": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "7": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "8": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "9": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "10": [
         "HELMET",
-        "FULL_FACE",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ]
     },
     "91": {
       "0": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "1": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "2": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "3": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "4": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "5": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "6": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "7": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "8": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "9": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ],
       "10": [
         "HELMET",
-        "FULL_FACE",
         "ALT_HELMET",
-        "DEADLINE_OUTFIT"
+        "DEADLINE_OUTFIT",
+        "FULL_FACE"
       ]
     },
     "92": {
@@ -5302,6 +5302,11 @@
       "7": [
         "HELMET",
         "ALT_HELMET"
+      ]
+    },
+    "148": {
+      "0": [
+        "HAT"
       ]
     }
   },
