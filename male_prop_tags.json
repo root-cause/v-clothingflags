@@ -5294,6 +5294,154 @@
       "0": [
         "HAT"
       ]
+    },
+    "150": {
+      "0": [
+        "HELMET"
+      ],
+      "1": [
+        "HELMET"
+      ],
+      "2": [
+        "HELMET"
+      ],
+      "3": [
+        "HELMET"
+      ],
+      "4": [
+        "HELMET"
+      ],
+      "5": [
+        "HELMET"
+      ],
+      "6": [
+        "HELMET"
+      ],
+      "7": [
+        "HELMET"
+      ],
+      "8": [
+        "HELMET"
+      ],
+      "9": [
+        "HELMET"
+      ],
+      "10": [
+        "HELMET"
+      ],
+      "11": [
+        "HELMET"
+      ],
+      "12": [
+        "HELMET"
+      ],
+      "13": [
+        "HELMET"
+      ],
+      "14": [
+        "HELMET"
+      ],
+      "15": [
+        "HELMET"
+      ],
+      "16": [
+        "HELMET"
+      ],
+      "17": [
+        "HELMET"
+      ],
+      "18": [
+        "HELMET"
+      ],
+      "19": [
+        "HELMET"
+      ],
+      "20": [
+        "HELMET"
+      ],
+      "21": [
+        "HELMET"
+      ],
+      "22": [
+        "HELMET"
+      ],
+      "23": [
+        "HELMET"
+      ],
+      "24": [
+        "HELMET"
+      ],
+      "25": [
+        "HELMET"
+      ]
+    },
+    "151": {
+      "0": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "1": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "2": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "3": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "4": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "5": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "6": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "7": [
+        "HAT",
+        "HOOD_HAT"
+      ]
+    },
+    "152": {
+      "0": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "1": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "2": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "3": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "4": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "5": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "6": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "7": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ]
     }
   },
   "1": {
@@ -6023,6 +6171,170 @@
         "GLASSES"
       ],
       "19": [
+        "GLASSES"
+      ]
+    },
+    "30": {
+      "0": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "1": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "2": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "3": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "4": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "5": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "6": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "7": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "8": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "9": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "10": [
+        "GLASSES",
+        "LIGHT_UP"
+      ],
+      "11": [
+        "GLASSES",
+        "LIGHT_UP"
+      ]
+    },
+    "31": {
+      "0": [
+        "GLASSES"
+      ],
+      "1": [
+        "GLASSES"
+      ],
+      "2": [
+        "GLASSES"
+      ],
+      "3": [
+        "GLASSES"
+      ],
+      "4": [
+        "GLASSES"
+      ],
+      "5": [
+        "GLASSES"
+      ],
+      "6": [
+        "GLASSES"
+      ],
+      "7": [
+        "GLASSES"
+      ],
+      "8": [
+        "GLASSES"
+      ],
+      "9": [
+        "GLASSES"
+      ],
+      "10": [
+        "GLASSES"
+      ],
+      "11": [
+        "GLASSES"
+      ]
+    },
+    "32": {
+      "0": [
+        "GLASSES"
+      ],
+      "1": [
+        "GLASSES"
+      ],
+      "2": [
+        "GLASSES"
+      ],
+      "3": [
+        "GLASSES"
+      ],
+      "4": [
+        "GLASSES"
+      ],
+      "5": [
+        "GLASSES"
+      ],
+      "6": [
+        "GLASSES"
+      ],
+      "7": [
+        "GLASSES"
+      ],
+      "8": [
+        "GLASSES"
+      ],
+      "9": [
+        "GLASSES"
+      ],
+      "10": [
+        "GLASSES"
+      ],
+      "11": [
+        "GLASSES"
+      ]
+    },
+    "33": {
+      "0": [
+        "GLASSES"
+      ],
+      "1": [
+        "GLASSES"
+      ],
+      "2": [
+        "GLASSES"
+      ],
+      "3": [
+        "GLASSES"
+      ],
+      "4": [
+        "GLASSES"
+      ],
+      "5": [
+        "GLASSES"
+      ],
+      "6": [
+        "GLASSES"
+      ],
+      "7": [
+        "GLASSES"
+      ],
+      "8": [
+        "GLASSES"
+      ],
+      "9": [
+        "GLASSES"
+      ],
+      "10": [
+        "GLASSES"
+      ],
+      "11": [
         "GLASSES"
       ]
     }
@@ -7027,6 +7339,68 @@
         "WATCH",
         "CUFF"
       ]
+    },
+    "40": {
+      "0": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "1": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "2": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "3": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "4": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "5": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "6": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "7": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "8": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "9": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "10": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "11": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ]
     }
   },
   "7": {
@@ -7088,6 +7462,68 @@
       "3": [
         "WATCH",
         "CUFF"
+      ]
+    },
+    "8": {
+      "0": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "1": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "2": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "3": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "4": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "5": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "6": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "7": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "8": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "9": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "10": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
+      ],
+      "11": [
+        "WATCH",
+        "CUFF",
+        "LIGHT_UP"
       ]
     }
   }
