@@ -5456,6 +5456,151 @@
         "HAT",
         "BACKWARDS_HAT"
       ]
+    },
+    "152": {
+      "0": [
+        "HAT"
+      ]
+    },
+    "153": {
+      "0": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "1": [
+        "HAT",
+        "HOOD_HAT"
+      ],
+      "2": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "3": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "4": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "5": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "6": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "7": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "8": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "9": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "10": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "11": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "12": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "13": [
+        "HAT",
+        "HOOD_HAT",
+        "CAR_MEET_ITEM"
+      ]
+    },
+    "154": {
+      "0": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "1": [
+        "HAT",
+        "BACKWARDS_HAT"
+      ],
+      "2": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "3": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "4": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "5": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "6": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "7": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "8": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "9": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "10": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "11": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "12": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ],
+      "13": [
+        "HAT",
+        "BACKWARDS_HAT",
+        "CAR_MEET_ITEM"
+      ]
     }
   },
   "1": {
