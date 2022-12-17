@@ -1,3 +1,7 @@
+# Discontinued
+
+I've decided to archive the repository. [Carbowix](https://github.com/Carbowix) has a [fork](https://github.com/Carbowix/v-clothingflags) with updates, check it out!
+
 # v-clothingflags
 
 Restriction tags of GTA V freemode ped clothing items.
